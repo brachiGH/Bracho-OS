@@ -1,3 +1,3 @@
-The that does every thing the junior dev can do!
+The OS kernel that does everything a junior developer can do!
 
-a kernel that prints `Hello Word!`
+A kernel that prints out `Hello Word!`!
